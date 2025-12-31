@@ -6,7 +6,7 @@ import { FacebookPage } from '../types';
  * You MUST replace this with your real App ID from developers.facebook.com
  * for the popup and Graph API to function.
  */
-const FB_APP_ID = 'YOUR_FB_APP_ID'; 
+const FB_APP_ID = '1938499797069544'; 
 
 let sdkPromise: Promise<void> | null = null;
 
